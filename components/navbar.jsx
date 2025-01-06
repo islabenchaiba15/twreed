@@ -41,7 +41,7 @@ import { languages } from "@/lib/constants"
               </Link>
             </NavigationMenuItem>
             <NavigationMenuItem>
-              <Link href="#" className="text-sm font-medium text-white transition-colors hover:font-semibold ">
+              <Link href="/atelier" className="text-sm font-medium text-white transition-colors hover:font-semibold ">
                 Ateliers
               </Link>
             </NavigationMenuItem>
