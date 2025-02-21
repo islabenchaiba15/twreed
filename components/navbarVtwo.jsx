@@ -17,7 +17,7 @@ import { Input } from "./ui/input"
  const NavbarVtwo=()=> {
     const [currentLanguage, setCurrentLanguage] = useState(languages[0])
   return (
-    <header className="sticky top-0 z-50 w-full bg-white">
+    <header className="sticky top-0 z-50 w-full bg-white h-fit">
   <div className="container flex h-16 items-center justify-between px-4 mx-auto">
     <Link href="/" className="mr-6 flex items-center space-x-2">
       <span className="text-xl font-bold text-black">TWREED</span>
